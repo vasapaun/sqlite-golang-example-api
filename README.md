@@ -2,4 +2,10 @@
 
 This is a simple, example API to manage books (title, author, year) with SQLite3 and Golang
 
-To use, run `go run main.go` or `go build main.go && ./main` to compile and run
+To run:
+
+`go run main.go db.go handlers.go model.go` 
+
+To compile and run:
+
+`go build main.go && ./main`
