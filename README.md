@@ -10,7 +10,7 @@ To run:
 
 To compile and run:
 
-`go build main.go && ./main`
+`go build && ./book-api`
 
 # How to test
 
