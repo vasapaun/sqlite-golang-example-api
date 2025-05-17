@@ -2,6 +2,8 @@
 
 This is a simple, example API to manage books (title, author, year) with SQLite3 and Golang
 
+Tests are written in bash, using curl
+
 # How to use
 
 To run:
